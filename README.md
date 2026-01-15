@@ -1,3 +1,5 @@
+[![Star History Chart](https://api.star-history.com/svg?repos=rudrankriyam/mlx-vlm&type=Date)](https://star-history.com/#rudrankriyam/mlx-vlm&Date)
+
 [![Upload Python Package](https://github.com/Blaizzy/mlx-vlm/actions/workflows/python-publish.yml/badge.svg)](https://github.com/Blaizzy/mlx-vlm/actions/workflows/python-publish.yml)
 # MLX-VLM
 
