@@ -1,4 +1,3 @@
-[![Star History Chart](https://api.star-history.com/svg?repos=rudrankriyam/mlx-vlm&type=Date)](https://star-history.com/#rudrankriyam/mlx-vlm&Date)
 
 [![Upload Python Package](https://github.com/Blaizzy/mlx-vlm/actions/workflows/python-publish.yml/badge.svg)](https://github.com/Blaizzy/mlx-vlm/actions/workflows/python-publish.yml)
 # MLX-VLM
@@ -327,3 +326,5 @@ MLX-VLM supports fine-tuning models with LoRA and QLoRA.
 ## LoRA & QLoRA
 
 To learn more about LoRA, please refer to the [LoRA.md](./mlx_vlm/LORA.MD) file.
+
+[![Star History Chart](https://api.star-history.com/svg?repos=rudrankriyam/mlx-vlm&type=Date)](https://star-history.com/#rudrankriyam/mlx-vlm&Date)
